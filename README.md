@@ -1,7 +1,13 @@
 # reverse-engineering-code
 
 ## Description
+This application is developed to create a tutorial for reverse-engineering-code .
 
+This application uses an express backend and save and retrieve node data from Sequelize a mysql.
+
+In Develop folder I got starter code for a project and I started to under stand each folders and files
+
+I explained or I wrote about the functions of each folders and files on Google Doc a tutorial explaining.
 
 * npm init
 
@@ -45,6 +51,8 @@ The developer is authorizing a free installation by cloning from the code [negas
   * Linkedin Profile: [negasimichael](https://www.linkedin.com/feed/)
   * Deployed URL: [negasimichael](#)
   * Github URL: [negasimichael](https://github.com/negasimichael/reverse-engineering-code)
+
+  * DocLink:[negasimichael](https://docs.google.com/document/d/1u4bDlYy3XYfc-DKOEXsEHz9IYDecQ2a9A8acneHo4rE/edit#)
   * Email: negasimichael1@gmail.com
   
 ## License
